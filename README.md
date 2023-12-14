@@ -7,8 +7,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software engineer, working on production of SaaS applications in Startup's and Enterprise environments. \
-💻 &nbsp;I'm recently graduated MSc Computer Science at Queen Mary University of London.\
+💡 &nbsp;I'm a software engineer, working on production of SaaS applications in Startup's and Enterprise environments. \
+💻 &nbsp;I'm recently graduated MSc Computer Science at Queen Mary University of London (Sep, 2022 - Sep, 2023).\
 🌱 &nbsp;I'm on track for learning more about Distributed Systems and Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I play RPG mobile games, random walks apart from coding.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
