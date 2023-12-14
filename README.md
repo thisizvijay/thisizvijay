@@ -15,6 +15,12 @@
 ✉️ &nbsp;You can email me at vijaykumar4495@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/10OSSrjyOuv_68zzXXWNIrm2lmZ7dMVAT/view?usp=drive_link) for more details about work experience.
 
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/thisisvijay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:vijaykumar4495@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,13 +46,10 @@
 
 #### Infrastructure and Tools 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-%23FF9900.svg?style=for-the-badge&logo=serverless&logoColor=#FD5750)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/thisisvijay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:vijaykumar4495@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <!--
 **thisizvijay/thisizvijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
