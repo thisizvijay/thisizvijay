@@ -7,7 +7,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a software engineer with 4+ year's of experience, working on production of SaaS applications in Startup's and Enterprise &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environments. \
+💡 &nbsp;I'm a software engineer with 4+ year's of experience, working on production of SaaS applications in Startup's and Enterprise environments. \
 💻 &nbsp;I'm recently graduated MSc Computer Science at Queen Mary University of London (Sep, 2022 - Sep, 2023).\
 🌱 &nbsp;I'm on track for learning more about Distributed Systems and Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I'll go random walks, meetups, games apart from coding.\
